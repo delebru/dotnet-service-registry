@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
 	<PackageId>ServiceRegistration</PackageId>
     <Nullable>enable</Nullable>
     <Authors>Bruno De Leone</Authors>
-    <Version>8.0.1</Version>
+    <Version>10.0.1</Version>
     <Title>Service Registration Utils</Title>
     <Description>Easily add attributes to your services for easy registration on app launch.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
