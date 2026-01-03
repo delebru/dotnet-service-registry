@@ -2,6 +2,7 @@
 
 [![Nuget](https://img.shields.io/nuget/v/ServiceRegistration.svg)](https://www.nuget.org/packages/ServiceRegistration)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)
+[![Build .NET](https://github.com/delebru/dotnet-service-registry/actions/workflows/build.yml/badge.svg)](https://github.com/delebru/dotnet-service-registry/actions/workflows/build.yml)
 
 A .NET library that simplifies dependency injection service registration through attributes. Instead of manually registering each service in your `Program.cs`, simply decorate your classes with lifetime attributes and let the library handle the registration automatically.
 
